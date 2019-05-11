@@ -1,4 +1,3 @@
-# CNN
 
 # Neural Style Transfer
 
